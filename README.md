@@ -4,7 +4,6 @@ A twitter bot that retweet "teach a man to fish" jokes
 
 ## To do:
 
-* create a twitter account for this to connect to
 * make a file that trains up an sklearn package to identify which tweets are jokes
 * make sure I have an exclude file so some words will never be retweeted
 * Should I run it in the cloud or just off a desktop?
