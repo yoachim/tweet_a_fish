@@ -14,3 +14,6 @@ A twitter bot that retweet "teach a man to fish" jokes
 * Python 3.x
 * sklearn (should come with anaconda)
 * tweepy
+
+
+## Tweet to train on: https://twitter.com/loresjoberg/status/1291177892421017604?s=20
